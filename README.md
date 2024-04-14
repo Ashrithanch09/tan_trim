@@ -1,7 +1,6 @@
 # React + Vite
 Project Overview
 
-![image](https://github.com/nileshpatil-15/tan_trim/assets/113256649/892aa7c5-9801-4fcb-9266-415cf632e8eb)
 
 TanTrim E-Commerce Site
 Welcome to TanTrim, your go-to e-commerce platform for bags! TanTrim offers a wide range of stylish and functional bags for various purposes, ranging from backpacks to messenger bags, handbags, and more.
