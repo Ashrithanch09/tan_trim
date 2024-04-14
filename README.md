@@ -21,7 +21,7 @@ Tailwind CSS: Tailwind CSS is a utility-first CSS framework that enables rapid U
 Axios: Axios is a popular JavaScript library for making HTTP requests from the browser. It simplifies the process of sending asynchronous HTTP requests and handling responses, making it ideal for fetching data from external APIs and interacting with the server.
 
 ------Instructions for Running the Project Locally-----
-1] git clone https://github.com/nileshpatil-15/tan_trim.git
+1] git clone (https://github.com/Ashrithanch09/tan_trim.git)
 2] cd TannTrim
 3] npm i 
 4]npm run dev
